@@ -1,10 +1,9 @@
 <h3 align="center">:sparkles::sparkles: Greetings! I'm Gudine! :sparkles::sparkles:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=gudine&show_icons=true&theme=midnight-purple&locale=en" alt="gudine"></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gudine&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="gudine"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gudine&show_icons=true&theme=midnight-purple&locale=en" alt="gudine"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gudine&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="gudine"></p>
 
-<br clear="both">
-<br>
+<hr>
 
 <p align="center">
 <a href="mailto:gudine283@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
