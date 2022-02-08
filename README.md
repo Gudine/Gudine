@@ -1,4 +1,4 @@
-<h3 align="center">:sparkles::sparkles: Greetings! I'm Gudine! :sparkles::sparkles:</h3>
+<h1 align="center">:sparkles::sparkles: Greetings! I'm Gudine! :sparkles::sparkles:</h1>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gudine&show_icons=true&theme=midnight-purple&locale=en" alt="gudine"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gudine&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="gudine"></p>
